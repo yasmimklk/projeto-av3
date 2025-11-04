@@ -1,17 +1,17 @@
-# Projeto Final - AV3 (Prático) - Programação em C
+# Projeto Final - AV3 - Programação em C
 
 ## Objetivo
 
-O objetivo deste projeto é implementar três programas em C aplicando conceitos de tipos de dados, condicionais, e estruturas de repetição. Os programas escolhidos são:
+O objetivo destes projetos é usar tipos de dados, condicionais, e estruturas de repetição. Abaixo está os projetos escolhidos:
 
-1. **Calculadora Básica**
-2. **Jogo de Adivinhação**
+1. **Calculadora**
+2. **Adivinhação**
 3. **Tabuada**
 
 ## Funcionalidades
 
-### 1. **Calculadora Básica**
-O programa oferece as seguintes operações matemáticas:
+### 1. **Calculadora**
+O programa tem as seguintes operações:
 - Soma
 - Subtração
 - Multiplicação
@@ -19,7 +19,7 @@ O programa oferece as seguintes operações matemáticas:
 
 O usuário escolhe a operação e fornece dois números para a operação. O programa exibe o resultado.
 
-### 2. **Jogo de Adivinhação**
+### 2. **Adivinhação**
 O programa gera um número aleatório entre 1 e 100. O jogador deve tentar adivinhar o número. O jogo dá dicas, como "muito alto" ou "muito baixo", até o jogador acertar o número.
 
 ### 3. **Tabuada**
@@ -28,7 +28,7 @@ O programa pede ao usuário para inserir um número e exibe a tabuada desse núm
 ## Como Rodar
 
 1. Baixe ou clone este repositório.
-2. Compile os arquivos `.c` utilizando um compilador C (como `gcc`).
+2. Compile os arquivos `.c` utilizando um compilador de C (como `gcc`).
    - Exemplo de compilação: `gcc src/calculadora.c -o calculadora`
 3. Execute o programa gerado.
    - Exemplo: `./calculadora`
