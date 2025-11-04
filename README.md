@@ -37,28 +37,14 @@ O programa pede ao usuário para inserir um número e exibe a tabuada desse núm
 
 ### 1. **Calculadora Básica**
 Calculadora Básica
-Escolha uma operacao:
 
-Soma
-
-Subtracao
-
-Multiplicacao
-
-Divisao
-
-Sair
+<img width="261" height="224" alt="Captura de tela 2025-11-04 113350" src="https://github.com/user-attachments/assets/8390b301-9d43-4b57-afae-14a1acb86258" />
 
 
 ### 2. **Jogo de Adivinhação**
 Bem-vindo ao Jogo de Adivinhacao!
-Tente adivinhar o numero entre 1 e 100.
-Digite o seu palpite: 50
-Muito baixo! Tente novamente.
-Digite o seu palpite: 75
-Muito alto! Tente novamente.
-Digite o seu palpite: 60
-Parabens! Voce acertou o numero.
+
+<img width="470" height="118" alt="Captura de tela 2025-11-04 113557" src="https://github.com/user-attachments/assets/6b13df37-a7fb-4bfa-b57d-8a96e8dbca01" />
 
 
 ### 3. **Tabuada**
