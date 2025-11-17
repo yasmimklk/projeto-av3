@@ -1,3 +1,4 @@
+
 # Projeto Final - AV3 - Programação em C
 
 ## Objetivo
@@ -52,9 +53,6 @@ Digite um numero para calcular a tabuada: 5
 Tabuada do 5:
 5 x 1 = 5
 5 x 2 = 10
-...
+<img width="542" height="321" alt="Captura de tela 2025-11-17 112850" src="https://github.com/user-attachments/assets/89bf0b67-350d-4722-bf0f-3d9fecbdb9c9" />
 
 
-## Licença
-
-Este projeto foi desenvolvido como parte do curso de Programação em C.
